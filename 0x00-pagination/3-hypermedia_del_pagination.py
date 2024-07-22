@@ -40,7 +40,7 @@ class Server:
     def get_hyper_index(self, index: int = None, page_size: int = 10) -> Dict:
         """Retrieves page data and pagination info within a given range."""
         result = self.indexed_dataset()
-        assert index is not None and index >= 0 and index <= max(data.keys())
+        assert index is not None and index >= 0 and index <= max(result.keys())
         data = []
         data_count = 0
         next_index = None

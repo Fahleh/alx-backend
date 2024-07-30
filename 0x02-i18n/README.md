@@ -1,6 +1,6 @@
 # 0x02. i18n
 
-![meme pic](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/1/91e1c50322b2428428f9.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240730%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240730T131319Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b0d9c9db512a312dee9ee90f0c4875180065634316b37db1e79808d01288d3bf)
+![meme_pic](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/1/91e1c50322b2428428f9.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240730%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240730T140304Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=67a04fff53167d3bbefa0f8dcb485825c876875176367d90e4bcbee5ba44f21a)
 
 ## Learning Objectives
 

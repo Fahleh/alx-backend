@@ -1,10 +1,5 @@
 # 0x00. Pagination
 
-![Cat picture](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/3646eb02de6527ca5d83.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240719%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240719T092948Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c44137b2a6ce86c0303527c6886342488135487686abd41914b52eb303eb6dcf)
-![Cat picture](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/746187b76bea1f46030e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240719%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240719T092948Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=5390d25206866b89d2222150c8c3190737537e8a5ebc2fe945055b44716aa144)
-![Cat picture](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/665ce871c2ecc66a8e71.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240719%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240719T092948Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4b67533981c78400e291700f8362e5c6c0e898c10f1ff0082a4c397770c5a98c)
-
-
 ## Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
